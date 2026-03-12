@@ -90,6 +90,87 @@ amna@github:~$ tree skills/
 ---
 
 ```bash
+amna@github:~$ ls portfolio_projects/
+```
+
+### 📂 Portfolio Projects — [Data Analytics Projects](https://github.com/AmnaNaveed189/Data-Analytics-Projects)
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🦠 [COVID-19 Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/COVID-19%20Analytics%20Dashboard)
+Global COVID-19 data analysis with interactive visualizations of cases, deaths, continental distribution & temporal trends.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+#### 🩺 [Diabetes Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes%20Analytics%20Dashboard)
+Comprehensive diabetes patient data analysis with biomarker correlations, risk profiling & health metric visualizations.
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 🏥 [Diabetes Patient Readmission Risk Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes_Patient_readmission_Risk_Analysis)
+Predicting hospital readmission risk for diabetes patients using data-driven analysis.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=flat-square" />
+
+</td>
+<td align="center" width="50%">
+
+#### 🛒 [Brazilian E-Commerce Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Brazilian%20E-Commerce%20Public%20Dataset%20Analysis)
+Exploring the Brazilian e-commerce public dataset to uncover sales patterns, customer behavior & delivery insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analysis-4ECDC4?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 👥 [HR Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HR%20Analytics%20Dashboard)
+HR data analytics dashboard exploring employee attrition, satisfaction & workforce demographics.
+<br/><br/>
+<img src="https://img.shields.io/badge/Dashboard-FFE66D?style=flat-square" /> <img src="https://img.shields.io/badge/HR%20Analytics-FF8E53?style=flat-square" />
+
+</td>
+<td align="center" width="50%">
+
+#### ❤️ [HeartAttack Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HeartAttack%20Analytics%20Dashboard)
+Analyzing heart attack risk factors with interactive visualizations of patient health metrics.
+<br/><br/>
+<img src="https://img.shields.io/badge/Healthcare-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/Data%20Viz-4ECDC4?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+#### 📦 [Supply Chain & Logistics Management System](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Supply%20Chain%20and%20Logistics%20Management%20System)
+End-to-end supply chain and logistics data analysis for operational efficiency & management insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/Supply%20Chain-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/Logistics-FFE66D?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/AmnaNaveed189/Data-Analytics-Projects" target="_blank">
+    <img src="https://img.shields.io/badge/📂_View_All_Projects-Data_Analytics_Repo-FF6B6B?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+```bash
 amna@github:~$ neofetch --stats
 ```
 
