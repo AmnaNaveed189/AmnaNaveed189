@@ -1,8 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,30:FF8E53,60:FFE66D,100:4ECDC4&height=200&section=header&text=✈️%20Amna%20Naveed&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=📊%20Data%20Analyst%20|%20🤖%20ML%20Engineer%20|%20🧠%20AI%20Enthusiast&descSize=17&descColor=ffffff&descAlignY=62&animation=scaleIn&stroke=FF6B6B&strokeWidth=2" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24,27&height=2&section=header" />
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,25:FF6B6B,50:FF8E53,75:FFE66D,100:4ECDC4&height=230&section=header&text=Amna%20Naveed%20🚀&fontSize=55&fontColor=ffffff&fontAlignY=33&desc=📊%20Data%20Analyst%20%7C%20🤖%20ML%20Engineer%20%7C%20🧠%20AI%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=scaleIn&stroke=ffffff&strokeWidth=1" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=🎓+Google+Certified+Data+Analyst;🤖+Machine+Learning+Engineer;🧠+Currently+Learning+Artificial+Intelligence;💡+Turning+Data+Into+Powerful+Insights;🌐+Check+Out+My+Portfolio!" alt="Typing SVG" />
@@ -146,19 +142,19 @@ amna@github:~$ fortune | cowsay
 <table align="center">
 <tr><td>
 
-*"In God we trust. All others must bring data."*
+*"In God we trust. All others must bring data."*  
 — **W. Edwards Deming**
 
 </td></tr>
 <tr><td>
 
-*"The goal is to turn data into information, and information into insight."*
+*"The goal is to turn data into information, and information into insight."*  
 — **Carly Fiorina**
 
 </td></tr>
 <tr><td>
 
-*"Without data, you're just another person with an opinion."*
+*"Without data, you're just another person with an opinion."*  
 — **W. Edwards Deming**
 
 </td></tr>
