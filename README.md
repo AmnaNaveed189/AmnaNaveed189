@@ -1,9 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,25:FF6B6B,50:FF8E53,75:FFE66D,100:4ECDC4&height=230&section=header&text=Amna%20Naveed%20%F0%9F%9A%80&fontSize=55&fontColor=ffffff&fontAlignY=33&desc=%F0%9F%93%8A%20Data%20Analyst%20%7C%20%F0%9F%A4%96%20ML%20Engineer%20%7C%20%F0%9F%A7%A0%20AI%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=scaleIn&stroke=ffffff&strokeWidth=1" /></p>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%8E%93+Google+Certified+Data+Analyst;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%A7%A0+Currently+Learning+Artificial+Intelligence;%F0%9F%92%A1+Turning+Data+Into+Powerful+Insights;%F0%9F%8C%90+Check+Out+My+Portfolio!" alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmnaNaveed189&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
   &nbsp;
@@ -15,13 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 ---
-
 ```bash
 amna@github:~$ cat about_me.json
 ```
-
 ```json
 {
   "name": "Amna Naveed",
@@ -35,28 +30,22 @@ amna@github:~$ cat about_me.json
   "status": "Always exploring new data frontiers 🚀"
 }
 ```
-
 ```bash
 amna@github:~$ cat certifications.log
 ```
-
 <p align="left">
   <img src="https://img.shields.io/badge/🎓_Google_Certified-Data_Analytics-FF6B6B?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
 ---
-
 ```bash
 amna@github:~$ tree skills/
 ```
-
 ### 📂 `skills/programming/`
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 ### 📂 `skills/data_analysis/`
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -67,7 +56,6 @@ amna@github:~$ tree skills/
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
-
 ### 📂 `skills/machine_learning/`
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -75,7 +63,6 @@ amna@github:~$ tree skills/
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
-
 ### 📂 `skills/databases_and_tools/`
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -86,112 +73,139 @@ amna@github:~$ tree skills/
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 ---
-
 ```bash
 amna@github:~$ ls portfolio_projects/
 ```
-
 ### 📂 Portfolio Projects — [Data Analytics Projects](https://github.com/AmnaNaveed189/Data-Analytics-Projects)
-
 <table>
 <tr>
 <td align="center" width="50%">
-
 #### 🦠 [COVID-19 Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/COVID-19%20Analytics%20Dashboard)
 Global COVID-19 data analysis with interactive visualizations of cases, deaths, continental distribution & temporal trends.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-
 </td>
 <td align="center" width="50%">
-
 #### 🩺 [Diabetes Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes%20Analytics%20Dashboard)
 Comprehensive diabetes patient data analysis with biomarker correlations, risk profiling & health metric visualizations.
 <br/><br/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-
 #### 🏥 [Diabetes Patient Readmission Risk Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes_Patient_readmission_Risk_Analysis)
 Predicting hospital readmission risk for diabetes patients using data-driven analysis.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=flat-square" />
-
 </td>
 <td align="center" width="50%">
-
 #### 🛒 [Brazilian E-Commerce Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Brazilian%20E-Commerce%20Public%20Dataset%20Analysis)
 Exploring the Brazilian e-commerce public dataset to uncover sales patterns, customer behavior & delivery insights.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analysis-4ECDC4?style=flat-square" />
-
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-
 #### 👥 [HR Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HR%20Analytics%20Dashboard)
 HR data analytics dashboard exploring employee attrition, satisfaction & workforce demographics.
 <br/><br/>
 <img src="https://img.shields.io/badge/Dashboard-FFE66D?style=flat-square" /> <img src="https://img.shields.io/badge/HR%20Analytics-FF8E53?style=flat-square" />
-
 </td>
 <td align="center" width="50%">
-
 #### ❤️ [HeartAttack Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HeartAttack%20Analytics%20Dashboard)
 Analyzing heart attack risk factors with interactive visualizations of patient health metrics.
 <br/><br/>
 <img src="https://img.shields.io/badge/Healthcare-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/Data%20Viz-4ECDC4?style=flat-square" />
-
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-
 #### 📦 [Supply Chain & Logistics Management System](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Supply%20Chain%20and%20Logistics%20Management%20System)
 End-to-end supply chain and logistics data analysis for operational efficiency & management insights.
 <br/><br/>
 <img src="https://img.shields.io/badge/Supply%20Chain-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/Logistics-FFE66D?style=flat-square" />
-
 </td>
 </tr>
 </table>
-
 <p align="center">
   <a href="https://github.com/AmnaNaveed189/Data-Analytics-Projects" target="_blank">
     <img src="https://img.shields.io/badge/📂_View_All_Projects-Data_Analytics_Repo-FF6B6B?style=for-the-badge" />
   </a>
 </p>
-
 ---
-
+```bash
+amna@github:~$ ls internship_projects/
+```
+### 🎓 Internship Projects — [Elevvo Pathways Internship](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects)
+<table>
+<tr>
+<td align="center" width="50%">
+#### 🛒 [Brazilian Ecommerce Dataset Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Brazilian%20Ecommerce%20Dataset%20Analysis)
+In-depth analysis of the Brazilian e-commerce dataset to uncover business trends and customer insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-4ECDC4?style=flat-square" />
+</td>
+<td align="center" width="50%">
+#### 🧑‍🤝‍🧑 [Customer Segmentation using RFM Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Customer_Segmentation_using_RFM_Analysis)
+Segmenting customers based on Recency, Frequency & Monetary value for targeted marketing strategies.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RFM-FF6B6B?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+#### 🚢 [EDA on Titanic Dataset](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/blob/main/EDA_on_Titanic_Dataset.ipynb)
+Exploratory Data Analysis on the Titanic dataset to discover survival patterns and key passenger features.
+<br/><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-FFE66D?style=flat-square" />
+</td>
+<td align="center" width="50%">
+#### 📊 [Power BI Dashboard for Retail Insights](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Power%20Bi%20Dashboard%20for%20Retail%20Insights)
+Interactive Power BI dashboard delivering key retail performance metrics and business intelligence.
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Retail-FF8E53?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+#### 🗃️ [SQL Based Analysis of Product Sales](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/SQL%20Based%20Analysis%20of%20Product%20Sales)
+SQL-driven analysis of product sales data to identify trends, top performers & revenue insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sales%20Analysis-4ECDC4?style=flat-square" />
+</td>
+<td align="center" width="50%">
+#### 📈 [Superstore Sales Data Analysis using Excel](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Superstore%20Sales%20Data%20Analysis%20using%20Excel)
+Comprehensive sales analysis of the Superstore dataset using Excel for dashboards, pivots & insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=flat-square" />
+</td>
+</tr>
+</table>
+<p align="center">
+  <a href="https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects" target="_blank">
+    <img src="https://img.shields.io/badge/🎓_View_All_Projects-Elevvo_Pathways_Internship-FFE66D?style=for-the-badge" />
+  </a>
+</p>
+---
 ```bash
 amna@github:~$ neofetch --stats
 ```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmnaNaveed189&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFE66D&text_color=c9d1d9&ring_color=4ECDC4" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmnaNaveed189&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=FF6B6B&currStreakNum=FFE66D&sideNums=FFE66D&dates=c9d1d9" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaNaveed189&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9" alt="Top Languages" />
 </p>
-
 ---
-
 ```bash
 amna@github:~$ ./connect.sh
 ```
-
 ```bash
 #!/bin/bash
 # ════════════════════════════════════════
@@ -199,7 +213,6 @@ amna@github:~$ ./connect.sh
 # ════════════════════════════════════════
 echo "Let's collaborate! 🤝"
 ```
-
 <p align="center">
   <a href="https://amna-naveed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-amna--naveed--portfolio.vercel.app-FF6B6B?style=for-the-badge" />
@@ -213,13 +226,10 @@ echo "Let's collaborate! 🤝"
     <img src="https://img.shields.io/badge/GitHub-AmnaNaveed189-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
-
 ```bash
 amna@github:~$ fortune | cowsay
 ```
-
 <table align="center">
 <tr><td>
 
@@ -240,11 +250,8 @@ amna@github:~$ fortune | cowsay
 
 </td></tr>
 </table>
-
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-FFE66D?style=for-the-badge&logoColor=black" />
 </p>
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,25:FFE66D,50:FF8E53,75:FF6B6B,100:FF3CAC&height=120&section=footer" /></p>
