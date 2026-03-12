@@ -1,7 +1,7 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,25:FF6B6B,50:FF8E53,75:FFE66D,100:4ECDC4&height=230&section=header&text=Amna%20Naveed%20🚀&fontSize=55&fontColor=ffffff&fontAlignY=33&desc=📊%20Data%20Analyst%20%7C%20🤖%20ML%20Engineer%20%7C%20🧠%20AI%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=scaleIn&stroke=ffffff&strokeWidth=1" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,25:FF6B6B,50:FF8E53,75:FFE66D,100:4ECDC4&height=230&section=header&text=Amna%20Naveed%20%F0%9F%9A%80&fontSize=55&fontColor=ffffff&fontAlignY=33&desc=%F0%9F%93%8A%20Data%20Analyst%20%7C%20%F0%9F%A4%96%20ML%20Engineer%20%7C%20%F0%9F%A7%A0%20AI%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=scaleIn&stroke=ffffff&strokeWidth=1" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=🎓+Google+Certified+Data+Analyst;🤖+Machine+Learning+Engineer;🧠+Currently+Learning+Artificial+Intelligence;💡+Turning+Data+Into+Powerful+Insights;🌐+Check+Out+My+Portfolio!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%8E%93+Google+Certified+Data+Analyst;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%A7%A0+Currently+Learning+Artificial+Intelligence;%F0%9F%92%A1+Turning+Data+Into+Powerful+Insights;%F0%9F%8C%90+Check+Out+My+Portfolio!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -166,4 +166,4 @@ amna@github:~$ fortune | cowsay
   <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-FFE66D?style=for-the-badge&logoColor=black" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF6B6B,25:FFE66D,50:4ECDC4,75:45B7D1,100:FF6B6B&height=120&section=footer" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,25:FFE66D,50:FF8E53,75:FF6B6B,100:FF3CAC&height=120&section=footer" /></p>
