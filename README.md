@@ -102,6 +102,8 @@ amna@github:~$ tree skills/
 
 ---
 
+---
+
 ## 🚀 Portfolio Projects
 ```bash
 amna@github:~$ ls portfolio_projects/
@@ -109,18 +111,80 @@ amna@github:~$ ls portfolio_projects/
 
 ### 📊 [Data Analytics Projects](https://github.com/AmnaNaveed189/Data-Analytics-Projects)
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🦠 [COVID-19 Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/COVID-19%20Analytics%20Dashboard) | Global COVID-19 data analysis with interactive visualizations of cases, deaths, continental distribution & temporal trends | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
-| 🩺 [Diabetes Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes%20Analytics%20Dashboard) | Comprehensive diabetes patient data analysis with biomarker correlations, risk profiling & health metric visualizations | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| 🏥 [Diabetes Patient Readmission Risk](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes_Patient_readmission_Risk_Analysis) | Predicting hospital readmission risk for diabetes patients using data-driven analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6B6B?style=flat-square) |
-| 🛒 [Brazilian E-Commerce Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Brazilian%20E-Commerce%20Public%20Dataset%20Analysis) | Exploring sales patterns, customer behavior & delivery insights from the Brazilian e-commerce public dataset | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-4ECDC4?style=flat-square) |
-| 👥 [HR Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HR%20Analytics%20Dashboard) | HR data analytics dashboard exploring employee attrition, satisfaction & workforce demographics | ![Dashboard](https://img.shields.io/badge/Dashboard-FFE66D?style=flat-square) ![HR](https://img.shields.io/badge/HR-FF8E53?style=flat-square) |
-| ❤️ [HeartAttack Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HeartAttack%20Analytics%20Dashboard) | Analyzing heart attack risk factors with interactive visualizations of patient health metrics | ![Healthcare](https://img.shields.io/badge/Healthcare-FF6B6B?style=flat-square) ![Viz](https://img.shields.io/badge/Data%20Viz-4ECDC4?style=flat-square) |
-| 📦 [Supply Chain & Logistics Management](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Supply%20Chain%20and%20Logistics%20Management%20System) | End-to-end supply chain and logistics data analysis for operational efficiency & management insights | ![Supply Chain](https://img.shields.io/badge/Supply%20Chain-3776AB?style=flat-square) ![Logistics](https://img.shields.io/badge/Logistics-FFE66D?style=flat-square) |
+<table>
+<tr>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FF6B6B; border-radius:10px; padding:12px;">
+
+**🦠 [COVID-19 Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/COVID-19%20Analytics%20Dashboard)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+Global COVID-19 analysis with interactive visualizations of cases, deaths & trends.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FF8E53; border-radius:10px; padding:12px;">
+
+**🩺 [Diabetes Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes%20Analytics%20Dashboard)**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square)
+
+Biomarker correlations, risk profiling & health metric visualizations.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FFE66D; border-radius:10px; padding:12px;">
+
+**🏥 [Diabetes Readmission Risk](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Diabetes_Patient_readmission_Risk_Analysis)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-FF6B6B?style=flat-square)
+
+Predicting hospital readmission risk for diabetes patients.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FF3CAC; border-radius:10px; padding:12px;">
+
+**🛒 [Brazilian E-Commerce Analysis](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Brazilian%20E-Commerce%20Public%20Dataset%20Analysis)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-4ECDC4?style=flat-square)
+
+Sales patterns, customer behavior & delivery insights.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FF6B6B; border-radius:10px; padding:12px;">
+
+**👥 [HR Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HR%20Analytics%20Dashboard)**
+
+![Dashboard](https://img.shields.io/badge/Dashboard-FFE66D?style=flat-square) ![HR](https://img.shields.io/badge/HR-FF8E53?style=flat-square)
+
+Employee attrition, satisfaction & workforce demographics.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1117; border: 1px solid #FF8E53; border-radius:10px; padding:12px;">
+
+**❤️ [HeartAttack Analytics Dashboard](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/HeartAttack%20Analytics%20Dashboard)**
+
+![Healthcare](https://img.shields.io/badge/Healthcare-FF6B6B?style=flat-square) ![Viz](https://img.shields.io/badge/Data%20Viz-4ECDC4?style=flat-square)
+
+Heart attack risk factors with interactive health metric visualizations.
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" style="background-color:#0d1117; border: 1px solid #4ECDC4; border-radius:10px; padding:12px;">
+
+**📦 [Supply Chain & Logistics Management System](https://github.com/AmnaNaveed189/Data-Analytics-Projects/tree/main/Supply%20Chain%20and%20Logistics%20Management%20System)**
+
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain-3776AB?style=flat-square) ![Logistics](https://img.shields.io/badge/Logistics-FFE66D?style=flat-square)
+
+End-to-end supply chain and logistics data analysis for operational efficiency & management insights.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/AmnaNaveed189/Data-Analytics-Projects" target="_blank">
+  <a href="https://github.com/AmnaNaveed189/Data-Analytics-Projects">
     <img src="https://img.shields.io/badge/📂_View_All_Projects-Data_Analytics_Repo-FF6B6B?style=for-the-badge" />
   </a>
 </p>
@@ -134,18 +198,70 @@ amna@github:~$ ls internship_projects/
 
 ### 🏢 [Elevvo Pathways Internship](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects)
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🛒 [Brazilian Ecommerce Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Brazilian%20Ecommerce%20Dataset%20Analysis) | In-depth analysis of the Brazilian e-commerce dataset to uncover business trends and customer insights | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-4ECDC4?style=flat-square) |
-| 🧑‍🤝‍🧑 [Customer Segmentation (RFM)](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Customer_Segmentation_using_RFM_Analysis) | Segmenting customers based on Recency, Frequency & Monetary value for targeted marketing strategies | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RFM](https://img.shields.io/badge/RFM-FF6B6B?style=flat-square) |
-| 🚢 [EDA on Titanic Dataset](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/blob/main/EDA_on_Titanic_Dataset.ipynb) | Exploratory Data Analysis on the Titanic dataset to discover survival patterns and key passenger features | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-FFE66D?style=flat-square) |
-| 📊 [Power BI Retail Dashboard](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Power%20Bi%20Dashboard%20for%20Retail%20Insights) | Interactive Power BI dashboard delivering key retail performance metrics and business intelligence | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Retail](https://img.shields.io/badge/Retail-FF8E53?style=flat-square) |
-| 🗃️ [SQL Product Sales Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/SQL%20Based%20Analysis%20of%20Product%20Sales) | SQL-driven analysis of product sales data to identify trends, top performers & revenue insights | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Sales](https://img.shields.io/badge/Sales-4ECDC4?style=flat-square) |
-| 📈 [Superstore Sales Analysis (Excel)](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Superstore%20Sales%20Data%20Analysis%20using%20Excel) | Comprehensive sales analysis of the Superstore dataset using Excel for dashboards, pivots & insights | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Analysis](https://img.shields.io/badge/Analysis-FF6B6B?style=flat-square) |
+<table>
+<tr>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #2ea043; border-radius:10px; padding:12px;">
+
+**🛒 [Brazilian Ecommerce Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Brazilian%20Ecommerce%20Dataset%20Analysis)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-2ea043?style=flat-square)
+
+Business trends and customer insights from Brazilian e-commerce data.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #56d364; border-radius:10px; padding:12px;">
+
+**🧑‍🤝‍🧑 [Customer Segmentation (RFM)](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Customer_Segmentation_using_RFM_Analysis)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RFM](https://img.shields.io/badge/RFM-56d364?style=flat-square)
+
+Recency, Frequency & Monetary segmentation for targeted marketing.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #3fb950; border-radius:10px; padding:12px;">
+
+**🚢 [EDA on Titanic Dataset](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/blob/main/EDA_on_Titanic_Dataset.ipynb)**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-3fb950?style=flat-square)
+
+Survival patterns and key passenger features from Titanic data.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #2ea043; border-radius:10px; padding:12px;">
+
+**📊 [Power BI Retail Dashboard](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Power%20Bi%20Dashboard%20for%20Retail%20Insights)**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Retail](https://img.shields.io/badge/Retail-56d364?style=flat-square)
+
+Key retail performance metrics and business intelligence dashboard.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #56d364; border-radius:10px; padding:12px;">
+
+**🗃️ [SQL Product Sales Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/SQL%20Based%20Analysis%20of%20Product%20Sales)**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Sales](https://img.shields.io/badge/Sales-3fb950?style=flat-square)
+
+Trends, top performers & revenue insights from product sales data.
+
+</td>
+<td width="33%" align="center" style="background-color:#0d1f0d; border: 1px solid #3fb950; border-radius:10px; padding:12px;">
+
+**📈 [Superstore Sales Analysis](https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects/tree/main/Superstore%20Sales%20Data%20Analysis%20using%20Excel)**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Analysis](https://img.shields.io/badge/Analysis-2ea043?style=flat-square)
+
+Dashboards, pivots & insights from Superstore dataset using Excel.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects" target="_blank">
-    <img src="https://img.shields.io/badge/🎓_View_All_Projects-Elevvo_Pathways_Internship-FFE66D?style=for-the-badge" />
+  <a href="https://github.com/AmnaNaveed189/Elevvo_Pathways_Internship_Projects">
+    <img src="https://img.shields.io/badge/🎓_View_All_Projects-Elevvo_Pathways_Internship-2ea043?style=for-the-badge" />
   </a>
 </p>
 
