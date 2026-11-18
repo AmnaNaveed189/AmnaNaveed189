@@ -1,48 +1,8 @@
-<!-- ============================================================ -->
-<!-- HEADER WAVE -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:6366f1,60:a855f7,100:ec4899&height=170&section=header&animation=fadeIn" />
-</p>
-
-<!-- NAME -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=54&duration=3000&pause=2000&color=a855f7&center=true&vCenter=true&width=760&height=80&lines=Amna+Naveed" alt="Amna Naveed" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&color=06b6d4&center=true&vCenter=true&width=700&height=30&lines=Data+Analyst+%E2%80%A2+ML+Engineer+%E2%80%A2+AI+Builder" alt="Roles" />
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=a855f7&center=true&vCenter=true&width=720&lines=Turning+messy+data+into+decisions.;Data+Analyst+%7C+ML+Engineer+%7C+AI+Builder.;Power+BI+%E2%80%A2+Deep+Learning+%E2%80%A2+RAG+Systems.;Open+to+remote+roles+%26+freelance+worldwide." alt="Typing SVG" />
-</p>
-
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Remote-Work-06b6d4?style=flat-square&labelColor=0f172a" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Freelance-Available-a855f7?style=flat-square&labelColor=0f172a" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Certified-Data%20Analyst-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0f172a" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AmnaNaveed189&label=Profile+Views&color=ec4899&style=flat-square" />
-</p>
-
-<!-- CONTACT BUTTONS -->
-<p align="center">
-  <a href="https://amnanaveed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amna-naveed-750590312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:amnanaveed189@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!--
+============================================================ 
+--> <!-- HEADER: name + roles on the wave (static, no animation) 
+--> <!-- ============================================================ 
+--> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:6366f1,60:a855f7,100:ec4899&height=280&section=header&text=Amna%20Naveed&fontSize=66&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=22&descColor=ffffff&descAlignY=62" alt="Amna Naveed - Data Analyst, ML Engineer, AI Builder" /> </p> <!-- TAGLINE --> <p align="center"> <b>Turning messy data into decisions</b> <br/> <sub>Power BI &nbsp;•&nbsp; Deep Learning &nbsp;•&nbsp; RAG Systems &nbsp;•&nbsp; Open to remote roles &amp; freelance worldwide</sub> </p> <!-- STATUS BADGES --> <p align="center"> <img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Remote-Work-06b6d4?style=flat-square&labelColor=0f172a" /> &nbsp; <img src="https://img.shields.io/badge/Freelance-Available-a855f7?style=flat-square&labelColor=0f172a" /> &nbsp; <img src="https://img.shields.io/badge/Google%20Certified-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0f172a" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=AmnaNaveed189&label=Profile+Views&color=ec4899&style=flat-square" /> </p> <!-- CONTACT BUTTONS --> <p align="center"> <a href="https://amnanaveed.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/amna-naveed-750590312/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="mailto:amnanaveed189@gmail.com"> <img src="https://img.shields.io/badge/Email-Hire%20Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
