@@ -2,7 +2,15 @@
 <!-- HEADER WAVE -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:6366f1,60:a855f7,100:ec4899&height=260&section=header&text=Amna%20Naveed&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=20&descColor=ffffff&descAlignY=62&animation=fadeIn&stroke=ffffff&strokeWidth=1.2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:6366f1,60:a855f7,100:ec4899&height=170&section=header&animation=fadeIn" />
+</p>
+
+<!-- NAME -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=3000&pause=1500&color=a855f7&center=true&vCenter=true&width=700&height=70&lines=Amna+Naveed" alt="Amna Naveed" />
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&color=06b6d4&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%80%A2+ML+Engineer+%E2%80%A2+AI+Builder" alt="Roles" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -42,12 +50,6 @@
 
 I'm a **Data Analyst & ML Engineer** (UET Lahore, Class of 2028). I work on the full path from raw, messy data to dashboards, models, and APIs that people can actually use.
 
-| 🎯 What I do | 🧠 Where I've worked |
-|---|---|
-| **Data Analysis & BI** — cleaning, SQL, Power BI dashboards | Healthcare AI (Alzheimer's detection) |
-| **ML / Deep Learning** — CNNs, transfer learning, computer vision | Genomics (cancer subtype discovery) |
-| **RAG & GenAI** — LLMs that answer from your own documents | Business analytics (churn, supply chain, customers) |
-
 > *"In God we trust. All others must bring data."* — **W. Edwards Deming**
 
 **Available for** remote roles, freelance projects, and international collaborations.
@@ -56,59 +58,16 @@ I'm a **Data Analyst & ML Engineer** (UET Lahore, Class of 2028). I work on the 
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark" />
-
-**Data Analysis & BI**
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,jupyter&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-
-**Machine Learning, Deep Learning & Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,keras,opencv&theme=dark" />
-
-**GenAI & RAG**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-6366f1?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-**Apps, Deployment & Tools**
-
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,vscode&theme=dark" />
-
-**Currently Exploring**
-
-<img src="https://img.shields.io/badge/Computer_Vision-Active-06b6d4?style=flat-square&logo=opencv&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Deep_Learning-Advanced-a855f7?style=flat-square&logo=pytorch&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/RAG_Systems-Building-ec4899?style=flat-square&logo=openai&logoColor=white" />
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace each REPO_NAME with your real repository name -->
 <p align="center">
-  <a href="https://github.com/AmnaNaveed189/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmnaNaveed189&repo=REPO_NAME_1&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=c9d1d9&icon_color=a855f7" />
-  </a>
-  <a href="https://github.com/AmnaNaveed189/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmnaNaveed189&repo=REPO_NAME_2&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=c9d1d9&icon_color=a855f7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,pandas,numpy,powerbi,jupyter,sklearn,tensorflow,pytorch,keras,opencv,fastapi,streamlit,docker,git,github,vscode&theme=dark&perline=10" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/AmnaNaveed189/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmnaNaveed189&repo=REPO_NAME_3&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=c9d1d9&icon_color=a855f7" />
-  </a>
-  <a href="https://github.com/AmnaNaveed189/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmnaNaveed189&repo=REPO_NAME_4&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=c9d1d9&icon_color=a855f7" />
-  </a>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
